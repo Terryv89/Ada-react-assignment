@@ -1,0 +1,12 @@
+p {
+  color: black;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+blockquote {
+  opacity: 50%;
+  border-left: 2px solid grey;
+  padding-left: 12px;
+  margin-left: 10px;
+}
